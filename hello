@@ -1,0 +1,3 @@
+#!/Users/simonooley/.nodenv/shims/node
+
+console.log("Hello,world");
